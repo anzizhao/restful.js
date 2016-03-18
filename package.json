@@ -19,6 +19,7 @@
     "immutable": "3.7.6",
     "object-assign": "2.0.0",
     "qs": "5.2.0",
+    "request": "^2.69.0",
     "warning": "2.1.0"
   },
   "devDependencies": {
